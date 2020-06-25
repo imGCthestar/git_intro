@@ -10,4 +10,4 @@ Git commands
 7. git checkout master (to return back to master branch)
 
 8. NOW to revert from current state to snapshot made on a certain commit use below command
-a. git revert --no-commit 63780f9..HEAD (63780f9 is a commit number/id)
+* git revert --no-commit 63780f9..HEAD (63780f9 is a commit number/id)
