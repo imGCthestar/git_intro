@@ -11,3 +11,4 @@ Git commands
 
 8. NOW to revert from current state to snapshot made on a certain commit use below command
 * git revert --no-commit 63780f9..HEAD (63780f9 is a commit number/id)
+* use commit id to reach that point..
