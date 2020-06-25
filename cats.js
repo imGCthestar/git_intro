@@ -1,2 +1,4 @@
+<<<<<<< HEAD
+=======
 console.log("slhaskl");
-console.log("ccccc");
+>>>>>>> parent of 622c28d... update files
