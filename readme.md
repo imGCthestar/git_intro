@@ -22,4 +22,10 @@ create file .gitignore and open it, add to be ignored file name  into it.
 
 12. to remove file=> git reset HEAD <file>
 
-13. 
+13. to ignore file make .gitignore file, open it and add the file name in it.
+
+14. to view branches > git branch
+15. to add branch > git checkout -b <branch_name>
+16. to change branch > git checkout <branch_name>
+17. to merge branch > git merge <branch_name>
+18. to remove branch > git branch -d <branch_name>
